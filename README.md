@@ -42,3 +42,20 @@ _________________________________________________________________
 7. Create a new filename
 8. Click on the 'Terminal' menu
 
+
+<!--Link and image-->
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/#emphasis)
+
+
+![Assorted Cars](https://www.google.com/search?q=modern+car+images&oq=modern+car+images&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgHGB4yCAgCEAAYBxgeMggIAxAAGAgYHjINCAQQABiGAxiABBiKBTIN)
+
+<!--Blackquote and Code-->
+
+This is an indented code 
+
+> Block Code<br/>
+>To be modified later
+
+
+
