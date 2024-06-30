@@ -44,6 +44,11 @@ _________________________________________________________________
 9. Continue with the git commands to initialize, etc
 
 
+
+_____________________________________________________________________
+
+
+
 <!--Link and image-->
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/#emphasis)
@@ -51,12 +56,24 @@ _________________________________________________________________
 
 ![Assorted Cars](https://www.google.com/search?q=modern+car+images&oq=modern+car+images&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgHGB4yCAgCEAAYBxgeMggIAxAAGAgYHjINCAQQABiGAxiABBiKBTIN)
 
+
+__________________________________________________________________
+
 <!--Blackquote and Code-->
 
 This is an indented code 
 
 > Block Code<br/>
 >To be modified later
+
+
+__________________________________________________________________
+
+
+
+
+
+
 
 
 <!--Tasks and Tables-->
@@ -69,15 +86,19 @@ This is an indented code
 
 [3] Commit
 
+
+
+
 Table
 ------
 
-|No. | Name | Income € | Expenses|
-|----|:--------|------------:|----------:|
-|1 | Julie | 50,000 |40,000 |
-|----|---------|-------------|-----------|
-|2 | Okeke |70,000 | 75,000 |
--------------------------------------------
+|No. | Name     | Income € | Expenses €|
+|----|:--------:|---------:|----------:|
+|    |          |          |           |
+|1   | Julie    | 50,000   |40,000     |
+|2   | Okeke    |70,000    | 75,000    |
+
+
 
 
 
@@ -86,7 +107,10 @@ Table
 
 <!--Horizontal rule applied in between the sections above -->
 
-<!--Other Related Practice on Mardown Elements-->
+
+________________________________________________________________
+
+<!--Other Related self-Practice on Mardown Elements-->
 
 ***Horizontal Trials***
 
