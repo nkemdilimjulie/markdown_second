@@ -1,51 +1,71 @@
 <!--Title Header-->
-# Welcome to my World 
+# Welcome to my World
+
+
+***
 
 
 <!--Headers and Emphpasis-->
 
-## Markdown
+***
 
-### What is Markdown?
+
+
+# Markdown
+
+
+## What is Markdown?
+
 
 
 **Markdown** is a lightweight ```markup language``` for creating formatted text using a plain-text editor. This means, it is an easy-to-read, easy-to-write language for formatting plain text.
 
-_________________________________________________________________
+
+***
 
 
 
 <!-- Unordered List -->
 
-#### The Use of Markdown ####
-------------------------------------------
-##### For creating:
+
+### The Use of Markdown 
+
+
+#### For creating:
+
 - title header
 - headers and emphasis
 - unordered and ordered lists
 - links and an images
 - blockquotes and codes (both inline and block)
 - tables and task lists
-- horizontal rules between sections
+- horizontal rules between sections: created with either of these characters
+    + 3 asterisks
+    + 3 slashes
+    + 3 underscore
 
 
 <!-- Ordered List -->
 
-###### How to Create a New Repo in GitHub
+
+##### How to Create a New Repo in GitHub
 
 1. Login to GitHub.com
 2. Type a new repository name
 3. Set the repo to Public
-4. Open a new folder in your Home directory
+4. Open a new folder 
+    1. Click on your Home directory
+    2. Click on the Project directory
+    3. Right-click to open new folder
+    4. Type the name of the new folder
 5. Right click to open terminal in the new folder
 6. Enter at the command line 'code .' to open VS Code
 7. Create a new filename
 8. Click on the 'Terminal' menu
-9. Continue with the git commands to initialize, etc
+9. Continue with the git commands to initialize git, etc
 
 
-
-_____________________________________________________________________
+---
 
 
 
@@ -54,22 +74,34 @@ _____________________________________________________________________
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/#emphasis)
 
 
-![Assorted Cars](https://www.google.com/search?q=modern+car+images&oq=modern+car+images&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgHGB4yCAgCEAAYBxgeMggIAxAAGAgYHjINCAQQABiGAxiABBiKBTIN)
+
+![Panga](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
-__________________________________________________________________
+---
 
-<!--Blackquote and Code-->
+    This is an indented code 
 
-This is an indented code 
+<!--Block Code-->
 
+    Block Code
+    Block Code
+    Block Code
+
+
+
+
+<!--Blackquote -->
 > Block Code<br/>
 >To be modified later
 
+<!--inline code-->
 
-__________________________________________________________________
+Inline Codes
 
+- When `x = 7`, that means `x + 2 = 9`
 
+- `welcome` `to` `my` `world`
 
 
 
