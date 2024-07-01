@@ -80,6 +80,9 @@
 
 ---
 
+
+To create a code block, either indent each line by 4 spaces, or place 3 backticks (```)  on a line above and below the code block. Examples:
+
     This is an indented code 
 
 <!--Block Code-->
@@ -90,33 +93,42 @@
 
 
 
-
-<!--Blackquote -->
-> Block Code<br/>
->To be modified later
-
 <!--inline code-->
 
-Inline Codes
+To create inline code, enclode the code with one or more backticks `.
+
+Inline Codes Examples-.
 
 - When `x = 7`, that means `x + 2 = 9`
 
 - `welcome` `to` `my` `world`
+- ```which```
 
 
 
 
+<!--Blockquote -->
 
 
-<!--Tasks and Tables-->
+Blockquote Demonstration:
 
-**Easy Task**
+I declare and say:
+> Markdown Language is easy to learn !!! Hurray !!!
 
-[1] Create
 
-[2] Modify
+(As quoted by  Julie)
 
-[3] Commit
+---
+
+<!--Task Demontration-->
+
+Please, choose one of the boxes:
+
+[ ] Create
+
+[x] Modify
+
+[ ] Commit
 
 
 
@@ -124,11 +136,11 @@ Inline Codes
 Table
 ------
 
-|No. | Name     | Income € | Expenses €|
-|----|:--------:|---------:|----------:|
-|    |          |          |           |
-|1   | Julie    | 50,000   |40,000     |
-|2   | Okeke    |70,000    | 75,000    |
+|No. | Name         | Income € | Expenses €|
+|----|:------------:|---------:|----------:|
+|    |              |          |           |
+|1   | Julie        | 50,000   |40,000     |
+|2   | Callistus    |70,000    | 75,000    |
 
 
 
@@ -137,25 +149,10 @@ Table
 
 
 
-<!--Horizontal rule applied in between the sections above -->
-
-
-________________________________________________________________
-
-<!--Other Related self-Practice on Mardown Elements-->
-
-***Horizontal Trials***
-
-
-____Horizontal View____
+<!--Horizontal rules are applied inbetween the sections above -->
 
 
 
-
-
-
-
-*****Horizontal Rule*****
 
 
 
