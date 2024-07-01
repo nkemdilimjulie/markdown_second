@@ -155,9 +155,11 @@ Table
 
 
 
+
 **Notification: From the above table, Callistus should get an adviser on Finance Management because his Expenses is greater than his income.**
 
 
+---
 
 ***Thank you***
 
