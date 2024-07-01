@@ -18,7 +18,7 @@
 
 
 
-**Markdown** is a lightweight ```markup language``` for creating formatted text using a plain-text editor. This means, it is an easy-to-read, easy-to-write language for formatting plain text.
+**Markdown** is a lightweight ```markup language``` for creating formatted text using a plain-text editor. This means, it is an easy-to-read, easy-to-write ***language*** for formatting plain text.
 
 
 ***
@@ -31,15 +31,15 @@
 ### The Use of Markdown 
 
 
-#### For creating:
+#### ***For creating:***
 
-- title header
-- headers and emphasis
-- unordered and ordered lists
-- links and an images
-- blockquotes and codes (both inline and block)
-- tables and task lists
-- horizontal rules between sections: created with either of these characters
+- title ***header***
+- headers and ***emphasis***
+- unordered and ordered ***lists***
+- ***links*** and an ***images***
+- b***lockquotes*** and ***codes*** (both inline and block)
+- ***tables*** and ***task lists***
+- ***horizontal rules*** between sections: created with either of these characters
     + 3 asterisks
     + 3 slashes
     + 3 underscore
@@ -127,7 +127,7 @@ I declare and say:
 > Markdown Language is easy to learn !!! Hurray !!!
 
 
-(As quoted by  Julie)
+(As quoted by  **Julie**)
 
 ---
 
@@ -155,12 +155,16 @@ Table
 
 
 
+**Notification: From the above table, Callistus should get an adviser on Finance Management because his Expenses is greater than his income.**
+
+
+
+***Thank you***
 
 
 
 
 
-<!--Horizontal rules are applied inbetween the sections above -->
 
 
 
