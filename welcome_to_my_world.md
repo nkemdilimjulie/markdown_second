@@ -11,7 +11,7 @@
 
 
 
-# Markdown
+# Text Design with Markdown
 
 
 ## What is Markdown?
@@ -75,11 +75,13 @@
 
 
 
-![Panga](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
-
+    Linux Logo
 ---
 
+
+Code Block:
 
 To create a code block, either indent each line by 4 spaces, or place 3 backticks (```)  on a line above and below the code block. Examples:
 
@@ -92,8 +94,17 @@ To create a code block, either indent each line by 4 spaces, or place 3 backtick
     Block Code
 
 
+Code Block Example:
+
+
+if x < 10;
+  x += 1
+  print(x)
+
 
 <!--inline code-->
+
+Inline Code
 
 To create inline code, enclode the code with one or more backticks `.
 
@@ -102,7 +113,7 @@ Inline Codes Examples-.
 - When `x = 7`, that means `x + 2 = 9`
 
 - `welcome` `to` `my` `world`
-- ```which```
+- ```great```
 
 
 
